@@ -12,7 +12,7 @@ There are two types of controllers in Flow:
 Setup Controller
 ================
 
-The ``SetupCommandController`` will be in charge of creating a ``Blog`` object, setting a title
+The ``BlogCommandController`` will be in charge of creating a ``Blog`` object, setting a title
 and description and storing it in the ``BlogRepository``::
 
 .. code-block:: none
